@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\data\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\data\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Migrations\\20250920200546_added book data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyFirstApi\\Migrations\\20250920200546_added book data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Migrations\\20250920195811_book model added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyFirstApi\\Migrations\\20250920195811_book model added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\hp\\onedrive\\desktop\\coding\\myfirstapi\\myfirstapi\\myfirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0132A7EF-2B90-45E6-8510-E7447AE46EF0}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\myfirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Data\\BooksContext.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Data\\BooksContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Data\\BooksContext.cs",
+              "RelativeToolTip": "MyFirstApi\\Data\\BooksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:23:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MyFirstApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:09:42.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Models\\Book.cs",
+              "RelativeToolTip": "MyFirstApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:57:31.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Program.cs",
+              "RelativeToolTip": "MyFirstApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:40:39.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250920200546_added book data.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Migrations\\20250920200546_added book data.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Migrations\\20250920200546_added book data.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Migrations\\20250920200546_added book data.cs",
+              "RelativeToolTip": "MyFirstApi\\Migrations\\20250920200546_added book data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:05:46.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250920195811_book model added.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Migrations\\20250920195811_book model added.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Migrations\\20250920195811_book model added.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Migrations\\20250920195811_book model added.cs",
+              "RelativeToolTip": "MyFirstApi\\Migrations\\20250920195811_book model added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:58:12.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\WeatherForecast.cs",
+              "RelativeToolTip": "MyFirstApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:41:23.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\appsettings.json",
+              "RelativeToolTip": "MyFirstApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T10:41:02.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyFirstApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:46:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyFirstApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyFirstApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T10:41:21.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyFirstApi.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\MyFirstApi.csproj",
+              "RelativeDocumentMoniker": "MyFirstApi\\MyFirstApi.csproj",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\coding\\MyFirstApi\\MyFirstApi\\MyFirstApi.csproj",
+              "RelativeToolTip": "MyFirstApi\\MyFirstApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T10:56:51.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
